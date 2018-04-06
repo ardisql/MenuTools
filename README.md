@@ -1,3 +1,3 @@
-# MenuTools
+# MenuTools Tools Tersedia 50!!
+Program bash
 By Ardi
-# Tools Tersedia 50 ^_^
