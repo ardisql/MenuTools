@@ -1,0 +1,681 @@
+#!/usr/bin/bash
+
+#Ini Hanya Tools Pembuat Deface
+#ByArdi
+#Kontak [Fb] ==> 192.168.1.1.A.R 
+
+kiddes='\e[1;33m'
+kiddies='\e[1;33m'
+clear
+toilet -f slant --gay "MenuTools"  | lolcat
+sleep 1
+echo " ___________________________________________________"                                                                | lolcat
+echo " |   #Nama   |  #Pembuat  |  #Status |    #Media    |"                                                               |lolcat
+echo " |___________|____________|__________|______________|"                                                               | lolcat
+echo " | #MenuTools|   #Ardi    |#Jomblo ;V|192.168.1.1.A.R|"                                                               |lolcat
+echo " |___________|____________|__________|_______________|"                                                               |lolcat
+echo " "
+sleep 2
+echo -e $kiddies"===================================================="                                      | lolcat
+echo -e $kiddes" [Tools Yang Tersedia]"  | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [01] WebSploit " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [02] Weeman " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [03] TrackOut " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [04] Zoom " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [05] Hac " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [06] CyberScan " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [07] GoldenEye " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [08] dost-attack " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [09] bom-mail " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [10] SCANNER-INURLBR " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [11] Breacher " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [12] sqlmap " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [13] zipcrack " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [14] hasher " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [15] BoxCoder " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [16] BoxServer " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [17] BoxSosmed " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [18] BoxCoderV.2 " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [19] BoxSpam " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [20] CrewBot " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [21] lhst " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [22] html-downloader " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [23] ipddos " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [24] md5-crack " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [25] Easymap " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [26] Ecode " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [27] sqlscan " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [28] Spyder " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [29] Trapdoor " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [30] SpiderBot " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [31] Termux-A " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [32] LiteOTP " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [33] pergabungan-tools " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [34] master " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [35] CripTOOLs " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [36] Nembak-Tools " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [37] fsociety " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [38] AutoSploit " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [39] santet-online " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [40] ATSCAN " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [41] SocialFish " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [42] Pybelt " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [43] webpwn3r " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [44] a2sv " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [45] sqlscan " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [46] PolBet " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [47] ReconDog " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [48] txtool " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [49] contexploit " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat
+echo " [50] contoh-deb " | lolcat
+echo -e $kiddes"====================================================="                                      | lolcat                                | lolcat
+sleep 1
+read eue
+
+if [ $eue = 1 ] || [ $eue = 01 ]
+then														
+clear
+echo " WebSploit "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/websploit/websploit.git
+fi
+
+if [ $eue = 2 ] || [ $eue = 02 ]
+then														
+clear
+echo " Weeman "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/samyoyo/weeman
+fi
+
+if [ $eue = 3 ] || [ $eue = 03 ]
+then														
+clear
+echo " TrackOut "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2 python2-dev
+git clone https://github.com/abaykan/TrackOut
+fi
+
+if [ $eue = 4 ] || [ $eue = 04 ]
+then														
+clear
+echo " Zoom "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/UltimateHackers/Zoom
+fi
+
+if [ $eue = 5 ] || [ $eue = 05 ]
+then														
+clear
+echo " Hac "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Cvar1984/Hac
+fi
+
+if [ $eue = 6 ] || [ $eue = 06 ]
+then														
+clear
+echo " CyberScan "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/medbenali/CyberScan
+fi
+
+if [ $eue = 7 ] || [ $eue = 07 ]
+then														
+clear
+echo " GoldenEye "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/jseidl/GoldenEye
+fi
+
+if [ $eue = 8 ] || [ $eue = 08 ]
+then														
+clear
+echo "  "
+sleep 1
+apt install git
+git clone https://github.com/verluchie/dost-attack
+fi
+
+if [ $eue = 9 ] || [ $eue = 09 ]
+then														
+clear
+echo " bom-mail "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/root-ID-041/bom-mail
+fi
+
+if [ $eue = 10 ] || [ $eue = 10 ]
+then														
+clear
+echo " SCANNER-INURLBR "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/googleinurl/SCANNER-INURLBR
+fi
+
+if [ $eue = 11 ] || [ $eue = 11 ]
+then														
+clear
+echo " Breacher "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/UltimateHackers/Breacher
+fi
+
+if [ $eue = 12 ] || [ $eue = 12 ]
+then														
+clear
+echo " sqlmap "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/sqlmapproject/sqlmap
+fi
+
+if [ $eue = 13 ] || [ $eue = 13 ]
+then														
+clear
+echo " zipcrack "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/CiKu370/zipcrack.git
+fi
+
+if [ $eue = 14 ] || [ $eue = 14 ]
+then														
+clear
+echo " hasher "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/ciku370/hasher
+fi
+
+if [ $eue = 15 ] || [ $eue = 15 ]
+then														
+clear
+echo " BoxCoder "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/BoxCoder
+fi
+
+if [ $eue = 16 ] || [ $eue = 16 ]
+then														
+clear
+echo " BoxServer "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/BoxCoder
+fi
+
+if [ $eue = 17 ] || [ $eue = 17 ]
+then														
+clear
+echo " BoxSosmed "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/BoxSosmed
+fi
+
+if [ $eue = 18 ] || [ $eue = 18 ]
+then														
+clear
+echo " BoxCoderV.2 "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/BoxCoderV.2
+fi
+
+if [ $eue = 19 ] || [ $eue = 19 ]
+then														
+clear
+echo " BoxSpam "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/BoxSpam
+fi
+
+if [ $eue = 20 ] || [ $eue = 20 ]
+then														
+clear
+echo " CrewBot "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/CrewBot
+fi
+
+if [ $eue = 21 ] || [ $eue = 21 ]
+then														
+clear
+echo " lhst "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/CiKu370/lhst
+fi
+
+if [ $eue = 22 ] || [ $eue = 22 ]
+then														
+clear
+echo " html-downloader "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/CiKu370/html-downloader
+fi
+
+if [ $eue = 23 ] || [ $eue = 23 ]
+then														
+clear
+echo " ipddos "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/CiKu370/ipddos
+fi
+
+if [ $eue = 24 ] || [ $eue = 24 ]
+then														
+clear
+echo " md5-crack "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/CiKu370/md5-crack
+fi
+
+if [ $eue = 25 ] || [ $eue = 25 ]
+then														
+clear
+echo " Easymap "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php 
+git clone https://github.com/Cvar1984/Easymap
+fi
+
+if [ $eue = 26 ] || [ $eue = 26 ]
+then														
+clear
+echo " Ecode "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/Ecode
+fi
+
+if [ $eue = 27 ] || [ $eue = 27 ]
+then														
+clear
+echo " sqlscan "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/sqlscan
+fi
+
+if [ $eue = 28 ] || [ $eue = 28 ]
+then														
+clear
+echo " Spyder "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/Spyder
+fi
+
+if [ $eue = 29 ] || [ $eue = 29 ]
+then														
+clear
+echo " Trapdoor "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/Trapdoor
+fi
+
+if [ $eue = 30 ] || [ $eue = 30 ]
+then														
+clear
+echo " SpiderBot "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/SpiderBot
+fi
+
+if [ $eue = 31 ] || [ $eue = 31 ]
+then														
+clear
+echo " Termux-A "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php
+git clone https://github.com/Cvar1984/Termux-A
+fi
+
+if [ $eue = 32 ] || [ $eue = 32 ]
+then														
+clear
+echo " LiteOTP "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+pkg install php 
+git clone https://github.com/Cvar1984/LiteOTP
+fi
+
+if [ $eue = 33 ] || [ $eue = 33 ]
+then														
+clear
+echo " pergabungan-tools "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/thehackingisreal/pergabungan-tools
+fi
+
+if [ $eue = 34 ] || [ $eue = 34 ]
+then														
+clear
+echo " master "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/TuxShadow/allinone/tree/master
+fi
+
+if [ $eue = 35 ] || [ $eue = 35 ]
+then														
+clear
+echo " CripTOOLs "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/CripTOOLs
+fi
+
+
+if [ $eue = 36 ] || [ $eue = 36 ]
+then														
+clear
+echo " Nembak-Tools "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Xeit666h05t/Nembak-Tools
+fi
+
+if [ $eue = 37 ] || [ $eue = 37 ]
+then														
+clear
+echo " fsociety "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Manisso/fsociety
+fi
+
+if [ $eue = 38 ] || [ $eue = 38 ]
+then														
+clear
+echo " AutoSploit "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/evil5hadow/AutoSploit
+fi
+
+if [ $eue = 39 ] || [ $eue = 39 ]
+then														
+clear
+echo " santet-online "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Gameye98/santet-online
+fi
+
+if [ $eue = 40 ] || [ $eue = 40 ]
+then														
+clear
+echo " ATSCAN "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/AlisamTechnology/ATSCAN
+fi
+
+if [ $eue = 41 ] || [ $eue = 41 ]
+then														
+clear
+echo " SocialFish "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/ERROR4317/SocialFish
+fi
+
+if [ $eue = 42 ] || [ $eue = 42 ]
+then														
+clear
+echo " Pybelt "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Ekultek/Pybelt
+fi
+
+if [ $eue = 43 ] || [ $eue = 43 ]
+then														
+clear
+echo " webpwn3r "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/zigoo0/webpwn3r
+fi
+
+if [ $eue = 44 ] || [ $eue = 44 ]
+then														
+clear
+echo " a2sv "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/hahwul/a2sv
+fi
+
+if [ $eue = 45 ] || [ $eue = 45 ]
+then														
+clear
+echo " sqlscan "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Cvar1984/sqlscan
+fi
+
+if [ $eue = 46 ] || [ $eue = 46 ]
+then														
+clear
+echo " Pybelt "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/Ekultek/Pybelt
+fi
+
+if [ $eue = 47 ] || [ $eue = 47 ]
+then														
+clear
+echo " ReconDog "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/UltimateHackers/ReconDog
+fi
+
+if [ $eue = 48 ] || [ $eue = 48 ]
+then														
+clear
+echo " txtool "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/kuburan/txtool
+fi
+
+if [ $eue = 49 ] || [ $eue = 49 ]
+then														
+clear
+echo " contexploit "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/kuburan/contexploit
+fi
+
+if [ $eue = 50 ] || [ $eue = 50 ]
+then														
+clear
+echo " contoh-deb "
+sleep 1
+apt update && apt upgrade
+apt install git
+apt install python2
+git clone https://github.com/kuburan/contoh-deb
+fi
